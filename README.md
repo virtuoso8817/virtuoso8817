@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtuoso8817&label=Profile%20views&color=0e75b6&style=flat" alt="virtuoso8817" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virtuoso8817" alt="virtuoso8817" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virtuoso8817" alt="virtuoso8817" /></a> </p>![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/cdbdf474-b2bf-41f4-8da2-12458fc8ff41)
+
 
 - 🔭 I’m currently working on **context based chat bot ,**
 
