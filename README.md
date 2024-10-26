@@ -22,6 +22,9 @@
 
 - 💬 Ask me about **Python, Marvel and Politics**
 
+  ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/eab17592-da2d-4587-a36c-04bcf1062895)
+
+
 - 📫 How to reach me **ronhackdee@gmail.com**
 
 - ⚡ Fun fact **I think I have quirky humour .I can sing sometimes and I like sukuna.**
