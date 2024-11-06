@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **ronhackdee@gmail.com**
 
-- ⚡ Fun fact **I think I have quirky humour .I can sing sometimes and I like sukuna.**
+- ⚡ Fun fact **I think I have quirky humour .I can sing sometimes and I like ice-cream.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
